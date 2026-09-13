@@ -64,3 +64,66 @@ CSE323-Operating-Systems/
 │   └── ...
 │
 └── README.md
+
+
+
+
+🧠 Topics Covered
+
+This section will be updated throughout the semester.
+
+Introduction to Operating Systems
+Operating System Structures
+Processes
+Process Scheduling
+Threads
+CPU Scheduling
+Process Synchronization
+Critical-Section Problem
+Semaphores
+Deadlocks
+Main Memory Management
+Virtual Memory
+File-System Interface
+File-System Implementation
+Mass-Storage Systems
+I/O Systems
+Protection and Security
+🛠️ Tools & Technologies
+
+Depending on the course requirements, this repository may include:
+
+C / C++
+Linux
+Bash / Shell Scripting
+GCC
+Operating System Simulators
+Virtual Machines
+Git & GitHub
+📈 Learning Progress
+Area	Status
+OS Fundamentals	🔄 Learning
+Process Management	🔄 Learning
+CPU Scheduling	🔄 Learning
+Synchronization	🔄 Learning
+Deadlocks	🔄 Learning
+Memory Management	🔄 Learning
+File Systems	🔄 Learning
+I/O Systems	🔄 Learning
+Protection & Security	🔄 Learning
+Projects	🔄 Ongoing
+🚀 Purpose of This Repository
+
+This repository is maintained as a personal academic record and learning portfolio for CSE323 - Operating Systems.
+
+It will help me:
+
+Track my learning progress
+Organize course materials
+Practice Operating System concepts
+Maintain academic work
+Develop practical programming skills
+Build a long-term learning portfolio
+📌 Note
+
+This repository is primarily intended for educational and academic purposes. Course materials, practical implementations, assignments, and projects will be added and updated throughout the semester.
